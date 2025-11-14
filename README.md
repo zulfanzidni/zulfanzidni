@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zulfan Zidni</h1>
 <h3 align="center">A data science enthusiast who is recently just graduate as an Information Systems from Sepuluh Nopember Insitute of Technology</h3>
 
-- 🔭 I have worked on [Bangkit Machine Learning Cohort](https://github.com/Ardizza/Bangkit-Product-Capstone), and CRRT Survival Rate Prediction.
+- 🔭 I have worked on [Bangkit Machine Learning Cohort](https://github.com/Ardizza/Bangkit-Product-Capstone), and Developed CRRT Survival Rate Prediction.
 
 - 🌱 I’m currently learning **Data Science**
 
